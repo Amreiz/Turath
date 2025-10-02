@@ -10,3 +10,4 @@
 # Optional: track compiled shaders or cache files (if versioned)
 *.ushaderprecache filter=lfs diff=lfs merge=lfs -text
 *.bin    filter=lfs diff=lfs merge=lfs -text
+*.glb filter=lfs diff=lfs merge=lfs -text
