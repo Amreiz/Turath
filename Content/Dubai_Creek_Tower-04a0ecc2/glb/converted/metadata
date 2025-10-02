@@ -1,0 +1,132 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>Video in Microsoft Flight Sim</p><p><a target=\"_blank\" href=\"https://www.youtube.com/watch?v=4SC2iQgOESs\" rel=\"noopener noreferrer nofollow\">https://www.youtube.com/watch?v=4SC2iQgOESs</a></p><p></p><p>Fly in the Sim<a target=\"_blank\" href=\"https://flightsim.to/file/34781/dubai-creek-tower\" rel=\"noopener noreferrer nofollow\">https://flightsim.to/file/34781/dubai-creek-tower</a></p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "2025-05-04T09:36:28.608611Z",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/670349fd-4eae-4ae5-a69c-a77e4ca89743/03b46362-67db-4735-9e35-542a9792a953.jpg",
+		"publishedAt": "2025-04-07T07:37:28.330453Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/19b2499e-7cb1-4561-aa15-e9c9b006bf43/c140ad96-b4f5-4d9f-a292-37faa1165d1f.jpg",
+		"title": "Dubai Creek Tower",
+		"uid": "04a0ecc2-263e-4bba-9537-dacd4e49f0f4",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "",
+			"sellerName": "Fly2",
+			"uid": "ecd4c70c-c77a-43ac-b3c8-fba541ee52f8"
+		},
+		"tags": [
+			{
+				"name": "Future",
+				"slug": "future",
+				"uid": "1b51f45f-ced8-43e4-ae96-bebb99ac2309"
+			},
+			{
+				"name": "Uae",
+				"slug": "uae",
+				"uid": "3b54b47b-730b-48cd-92f3-39bd0036ed79"
+			},
+			{
+				"name": "Futuristic",
+				"slug": "futuristic",
+				"uid": "3ccbe53a-83ee-475a-967a-2468963b77cb"
+			},
+			{
+				"name": "Creek",
+				"slug": "creek",
+				"uid": "5a13d28f-c096-4b21-a04e-410279009e4c"
+			},
+			{
+				"name": "Fantasy",
+				"slug": "fantasy",
+				"uid": "5c48e966-39f9-4b98-9803-78335e942570"
+			},
+			{
+				"name": "Tower",
+				"slug": "tower",
+				"uid": "a30d2522-f0bb-4408-9974-550972fe1d16"
+			},
+			{
+				"name": "Flight",
+				"slug": "flight",
+				"uid": "b56cbc78-1ed5-41ff-b4b6-d2399037916d"
+			},
+			{
+				"name": "Skyscraper",
+				"slug": "skyscraper",
+				"uid": "ba3fa39b-ca12-4752-99b5-026f410ad92e"
+			},
+			{
+				"name": "Dubai",
+				"slug": "dubai",
+				"uid": "e23b5f8a-8b97-41c9-9a31-7f63046045d2"
+			},
+			{
+				"name": "Simulation",
+				"slug": "simulation",
+				"uid": "fc3dd574-71c0-4acf-8d38-fb7c969b3262"
+			}
+		],
+		"category":
+		{
+			"name": "Buildings & Architecture",
+			"path": "buildings-architecture",
+			"slug": "buildings-architecture",
+			"uid": "eec3bdd5-ba7a-45a8-b15d-67462b9630f6"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "GLTF",
+					"groupName": "3D Exchange Formats",
+					"code": "gltf",
+					"icon": "cube",
+					"extensions": [
+						"gltf"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "glb",
+	"fileId": "5d44ee27-d2df-4071-a8b8-970b386f5564",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "",
+	"invertedNormal": false,
+	"isConverted": true,
+	"isQuixel": false
+}
